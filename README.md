@@ -1,2 +1,1 @@
-# next.js-template
-Next.js Template
+packages/next/README.md
